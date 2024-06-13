@@ -1,4 +1,4 @@
-import logo from './logo.svg';
+//  use this command to work with github   {  npm install ajv }
 import './App.css';
 
 function App() {
