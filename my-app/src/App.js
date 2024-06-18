@@ -26,7 +26,7 @@ export default App;
 /*
 #variables let var const
 
-# function is heat of js every thing happend in js heppen  in js (Arrow function & HOC)
+# function is heart of js every thing happend in js heppen  in js (Arrow function & HOC)
 
 # array & object
 *array destructuring
